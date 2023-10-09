@@ -10,3 +10,6 @@ Pro tips for getting an A in Dr.Cerny's class.
     4. You dont realize it now, but java streams are king. 
   
   Do me a favor, if everyone here can tell Professor Fry congradulations on retirement, im sure she would be very greatful. 
+
+
+# Cole Hogan
